@@ -8,7 +8,7 @@ export default class TeamStats extends Component {
 // render will return() the html of the component
   render() {
     return (
-      <h1 >Team Stats</h1>
+      <h2 >Team Stats</h2>
     )
   }
 }
